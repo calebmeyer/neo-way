@@ -1,0 +1,21 @@
+{
+  "name": "neo-way",
+  "version": "0.1.0",
+  "description": "see http://www.hughhowey.com/neo-a-word-processor-for-authors/",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/calebmeyer/neo-way",
+  "keywords": [
+    "neo",
+    "author",
+    "write",
+    "distraction-free"
+  ],
+  "author": "Caleb Meyer",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
